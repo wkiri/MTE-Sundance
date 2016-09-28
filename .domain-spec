@@ -1,0 +1,25 @@
+#Sundance domain specific options file
+#
+# for the Mars Target Encyclopedia (MTE) domain
+# (planetary science)
+#
+#lines that start with # are ignored (as are blank lines)
+#other lines should have the format "<attribute> <value>"
+#and are interpreted in the setopt function in miscglobals.c
+#
+# NOTE: paths should be fully specified
+#
+# THIS IS THE SUNDANCE 4.42 VERSION WHICH DOES NOT USE A DOMAIN-SPECIFIC SEMTREE
+# AND WHICH USES THE NEW DICTIONARY FOR THE 4.42 SEMANTIC HIERARCHY.
+
+# domain specific caseframe templates option to be used instead of default file
+
+# name of the appending dictionary (to add in domain-specific definitions,
+# this file must have the same format as the standard dictionary.txt file)
+domain_append_dict /Users/wkiri/Research/MTE/autoslog-ts/sundance-v5.1/data/mte/mte_append_dict.txt
+
+#name of file containing domain specific non-eos words
+domain_non_eos_file /Users/wkiri/Research/MTE/autoslog-ts/sundance-v5.1/data/mte/mte_non_eos.txt
+
+
+

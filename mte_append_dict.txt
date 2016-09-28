@@ -1,0 +1,67 @@
+; Definitions for planetary science domain
+
+fin NOUN
+Mars NOUN
+Earth NOUN
+sol NOUN
+MSL NOUN
+APXS NOUN
+CheMin NOUN
+Alpha ADJECTIVE 
+Particle NOUN
+X-ray NOUN
+Spectrometer NOUN
+enrichment NOUN
+opaque ADJECTIVE
+sandstone NOUN
+K-rich ADJECTIVE element
+MnO-rich ADJECTIVE mineral
+abundance NOUN
+chemistry NOUN
+oxide NOUN
+dust NOUN
+
+; chemistry
+akaganeite NOUN mineral
+anhydrite NOUN mineral
+feldspar NOUN mineral
+hematite NOUN mineral
+illite NOUN mineral
+ilmenite NOUN mineral
+K-feldspar NOUN mineral
+K-spar NOUN mineral
+magnetite NOUN mineral
+phyllosilicate NOUN mineral
+plagioclase NOUN mineral
+pyroxene NOUN mineral
+smectite NOUN mineral
+
+Al2O3 NOUN mineral
+CaO NOUN mineral
+Fe3+O(OH,Cl) NOUN mineral
+FeOT NOUN mineral
+MgO NOUN mineral
+MnO NOUN mineral
+Na2O NOUN mineral
+SiO2 NOUN mineral
+SO3 NOUN mineral
+
+Na/K NOUN
+
+Cl NOUN element
+Fe NOUN element
+iron NOUN element
+K NOUN element
+potassium NOUN element
+Zn NOUN element
+
+; targets
+Windjana NOUN target
+Dillinger NOUN target
+Kimberley NOUN target
+Stephen NOUN target
+
+crosscut VERB
+cement VERB
+
+
