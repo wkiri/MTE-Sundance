@@ -2,4 +2,1733 @@
 ;;                            MTE PHRASAL ENTRIES
 ;; =============================================================================================
 
+;;===========================================================================================
+;;  MULTI-WORD TARGET NAMES
+;;===========================================================================================
+Adams Sound * Adams_Sound
+Afton Canyon CCAM * Afton_Canyon_CCAM
+Agate Hill * Agate_Hill
+Aguereberry Point * Aguereberry_Point
+Altar Mountain * Altar_Mountain
+Andrews Mountain * Andrews_Mountain
+Aneth 2 * Aneth_2
+Antelope Valley * Antelope_Valley
+Anvil Spring Canyon * Anvil_Spring_Canyon
+Ashley Lakes * Ashley_Lakes
+Athole Point * Athole_Point
+Aztec 2 * Aztec_2
+Aztec 819 * Aztec_819
+Bagnold Dune * Bagnold_Dune
+Bagnold Dune 4 southern slipface * Bagnold_Dune_4_southern_slipface
+Balboa (Dismal Lakes) * Balboa_(Dismal_Lakes)
+Balboa 2 * Balboa_2
+Balch Hill * Balch_Hill
+Bald Mountain * Bald_Mountain
+Bald Mountain2 * Bald_Mountain2
+Bald Mountain 3 * Bald_Mountain_3
+Bardin Bluffs2 pebble * Bardin_Bluffs2_pebble
+Bardin Bluffs 2 * Bardin_Bluffs_2
+Barn 2 * Barn_2
+Beacon Heights ccam * Beacon_Heights_ccam
+Bear Trap Canyon * Bear_Trap_Canyon
+Beartooth Pass * Beartooth_Pass
+Beaver Brook 1 * Beaver_Brook_1
+Beaver Brook 2 * Beaver_Brook_2
+Beck Spring * Beck_Spring
+Bedford 2 * Bedford_2
+Bell Island 1 * Bell_Island_1
+Belle Fourche * Belle_Fourche
+Big Arm * Big_Arm
+Big Arm 2 * Big_Arm_2
+Big Rock * Big_Rock
+Big Salmon * Big_Salmon
+Big Sky * Big_Sky
+Big Sky Drill Hole ccam * Big_Sky_Drill_Hole_ccam
+Big Sky Full Drill * Big_Sky_Full_Drill
+Big Sky Post Sieve Dump Pile * Big_Sky_Post_Sieve_Dump_Pile
+Big Sky Tailings * Big_Sky_Tailings
+Big Sky tailings ccam * Big_Sky_tailings_ccam
+Big Snowies * Big_Snowies
+Bird River * Bird_River
+Bird Spring * Bird_Spring
+Black Dragon * Black_Dragon
+Black Rock * Black_Rock
+Black Trout * Black_Trout
+Blackrock 1 * Blackrock_1
+Blackrock 2 * Blackrock_2
+Blanco Mountain * Blanco_Mountain
+Blind Gulch * Blind_Gulch
+Blinker Hill * Blinker_Hill
+Bloods Brook * Bloods_Brook
+Bluff 3 * Bluff_3
+BonanzaKing2 CCAM * BonanzaKing2_CCAM
+Bonanza King * Bonanza_King
+Bonanza King1 * Bonanza_King1
+Bonanza King1 ccam * Bonanza_King1_ccam
+Bonanza King2 * Bonanza_King2
+Bonnet Plume * Bonnet_Plume
+Bonnet Plume Sol166 * Bonnet_Plume_Sol166
+Book Cliffs * Book_Cliffs
+Buckskin Full Drill Hole * Buckskin_Full_Drill_Hole
+Buckskin Full Drill Hole Tailings ccam * Buckskin_Full_Drill_Hole_Tailings_ccam
+Buckskin Full Drill Hole Tailings ccam  * Buckskin_Full_Drill_Hole_Tailings_ccam 
+Buckskin Full Drill Hole ccam * Buckskin_Full_Drill_Hole_ccam
+Buffalo Basin * Buffalo_Basin
+Buffalo Flat * Buffalo_Flat
+Buit Lake * Buit_Lake
+Bull Arm * Bull_Arm
+Butchers Gulley hor * Butchers_Gulley_hor
+Butchers Gulley ver * Butchers_Gulley_ver
+Butte Valley * Butte_Valley
+CCAM CCCT Pass Triad * CCAM_CCCT_Pass_Triad
+CCAM CT Triad * CCAM_CT_Triad
+CC BT 0318a * CC_BT_0318a
+CC BT 0328a * CC_BT_0328a
+CC BT 0330a * CC_BT_0330a
+CC BT 0334a * CC_BT_0334a
+CC BT 0341a * CC_BT_0341a
+CC BT 0350a * CC_BT_0350a
+CC BT 0352a * CC_BT_0352a
+CC BT 0355a * CC_BT_0355a
+CC BT 0357a * CC_BT_0357a
+CC BT 0359a * CC_BT_0359a
+CC BT 0364a * CC_BT_0364a
+CC BT 0384a * CC_BT_0384a
+CC BT 0386a * CC_BT_0386a
+CC BT 0389a * CC_BT_0389a
+CC BT 0391a * CC_BT_0391a
+CC BT 0397a * CC_BT_0397a
+CC BT 0406a * CC_BT_0406a
+CC BT 0424a * CC_BT_0424a
+CC BT 0427a * CC_BT_0427a
+CC BT 0430a * CC_BT_0430a
+CC BT 0432a * CC_BT_0432a
+CC BT 0434a * CC_BT_0434a
+CC BT 0453a * CC_BT_0453a
+CC BT 0466a * CC_BT_0466a
+CC BT 0471a * CC_BT_0471a
+CC BT 0473a * CC_BT_0473a
+CC BT 0475a * CC_BT_0475a
+CC BT 0491a * CC_BT_0491a
+CC BT 0505a * CC_BT_0505a
+CC BT 0507a * CC_BT_0507a
+CC BT 0509a * CC_BT_0509a
+CC BT 0527a * CC_BT_0527a
+CC BT 0529a * CC_BT_0529a
+CC BT 0543a * CC_BT_0543a
+CC BT 0582a * CC_BT_0582a
+CC BT 0588a * CC_BT_0588a
+CC BT 0604a * CC_BT_0604a
+CC BT 0607a * CC_BT_0607a
+CC BT 0636a * CC_BT_0636a
+CC BT 0637a * CC_BT_0637a
+CC BT 0642a * CC_BT_0642a
+CC BT 0645a * CC_BT_0645a
+CC BT 0648a * CC_BT_0648a
+CC BT 0652a * CC_BT_0652a
+CC BT 0663a * CC_BT_0663a
+CC BT 0664a * CC_BT_0664a
+CC BT 0668a * CC_BT_0668a
+CC BT 0672a * CC_BT_0672a
+CC BT 0686a * CC_BT_0686a
+CC BT 0689a * CC_BT_0689a
+CC BT 0706a * CC_BT_0706a
+CC BT 0709a * CC_BT_0709a
+CC BT 0710a * CC_BT_0710a
+CC BT 0711a * CC_BT_0711a
+CC BT 0714a * CC_BT_0714a
+CC BT 0717a * CC_BT_0717a
+CC BT 0720a * CC_BT_0720a
+CC BT 0730a * CC_BT_0730a
+CC BT 0734a * CC_BT_0734a
+CC BT 0738a * CC_BT_0738a
+CC BT 0745a * CC_BT_0745a
+CC BT 0746a * CC_BT_0746a
+CC BT 0752a * CC_BT_0752a
+CC BT 0780a * CC_BT_0780a
+CC BT 0786a * CC_BT_0786a
+CC BT 0788a * CC_BT_0788a
+CC BT 0791a * CC_BT_0791a
+CC BT 0795a * CC_BT_0795a
+CC MR wheel 0493a * CC_MR_wheel_0493a
+CC MR wheel 0502a * CC_MR_wheel_0502a
+Cal target sharp edge * Cal_target_sharp_edge
+Camp Island * Camp_Island
+Camp Ridge ccam * Camp_Ridge_ccam
+Campito 2 * Campito_2
+Canadian Creek * Canadian_Creek
+Cape Smith * Cape_Smith
+Cape Strawberry * Cape_Strawberry
+Cascade Bay * Cascade_Bay
+Cascade Bay Nighttime * Cascade_Bay_Nighttime
+Castle Mountain * Castle_Mountain
+Castle Valley * Castle_Valley
+Castlegate 2 * Castlegate_2
+Cat Creek * Cat_Creek
+Cherry Valley * Cherry_Valley
+Chocolate Sundae Mountain * Chocolate_Sundae_Mountain
+Christopher Island * Christopher_Island
+Cline A RMI Moasic Start * Cline_A_RMI_Moasic_Start
+Cline B RMI Mosaic Start * Cline_B_RMI_Mosaic_Start
+Cline C RMI Moasic Start * Cline_C_RMI_Moasic_Start
+Comb Ridge ccam * Comb_Ridge_ccam
+Cone Hill * Cone_Hill
+Confidence Hills * Confidence_Hills
+Confidence Hills Dump Pile * Confidence_Hills_Dump_Pile
+Confidence Hills Full Drill Hole * Confidence_Hills_Full_Drill_Hole
+Connecting Point * Connecting_Point
+Coombs 1067 * Coombs_1067
+Copper Queen * Copper_Queen
+Cow Bore * Cow_Bore
+Cowhole Mountain * Cowhole_Mountain
+Coyote Basin * Coyote_Basin
+Crazy Hollow * Crazy_Hollow
+Crazy Mountain * Crazy_Mountain
+Crestaurum 1 * Crestaurum_1
+Crestaurum 2 * Crestaurum_2
+Crystal Spring * Crystal_Spring
+Cumberland3 ccam * Cumberland3_ccam
+CumberlandA LL * CumberlandA_LL
+CumberlandNew RP * CumberlandNew_RP
+Cumberland Bowl * Cumberland_Bowl
+Cumberland CCAM * Cumberland_CCAM
+Cumberland DRT RP * Cumberland_DRT_RP
+DT RP5 STG * DT_RP5_STG
+DT RP6 * DT_RP6
+Dark Fields * Dark_Fields
+Deadman Pass * Deadman_Pass
+Deadwood ccam * Deadwood_ccam
+Deep Kill CCAM * Deep_Kill_CCAM
+Deep Spring * Deep_Spring
+Delaware River * Delaware_River
+Desert Range * Desert_Range
+Detector Background * Detector_Background
+Devils Basin * Devils_Basin
+Diamond Point * Diamond_Point
+Dingo Gap Dune RMI * Dingo_Gap_Dune_RMI
+Discovery Creek * Discovery_Creek
+Distant Crater * Distant_Crater
+Double Mer * Double_Mer
+Dougalls 2 * Dougalls_2
+Dragons Teeth * Dragons_Teeth
+Drill tip 1 * Drill_tip_1
+Dublin Gulch * Dublin_Gulch
+Dump Pile * Dump_Pile
+Duncan Lake * Duncan_Lake
+Duncan Lake vertical start * Duncan_Lake_vertical_start
+Dune Field * Dune_Field
+Dune Fields * Dune_Fields
+Dunefield Sol550 * Dunefield_Sol550
+Dunefield Sol562 * Dunefield_Sol562
+Dunes 657 * Dunes_657
+Dunes 727 CCAM * Dunes_727_CCAM
+Dunes Sol516 * Dunes_Sol516
+Dunn Hill 2 * Dunn_Hill_2
+Eagle Mountain * Eagle_Mountain
+East River * East_River
+Eaton Canyon * Eaton_Canyon
+Eaton Canyon 2 * Eaton_Canyon_2
+Ely Springs * Ely_Springs
+Ennis ccam * Ennis_ccam
+Epaulet Peak * Epaulet_Peak
+Epworth 3 * Epworth_3
+Exeter 2 * Exeter_2
+Fabricius Cliffs * Fabricius_Cliffs
+Fairview Valley * Fairview_Valley
+Fairyland Point * Fairyland_Point
+Finger Hill * Finger_Hill
+Fisch Scale * Fisch_Scale
+Flagstone Bench * Flagstone_Bench
+Flaherty 2 * Flaherty_2
+Fleur de Lys * Fleur_de_Lys
+Fort Conrad * Fort_Conrad
+Fox Hills * Fox_Hills
+Fred and George Creek * Fred_and_George_Creek
+Frome Rocks * Frome_Rocks
+Frood 1 * Frood_1
+Frood 2 * Frood_2
+Funeral Peak * Funeral_Peak
+Funk Valley RP * Funk_Valley_RP
+Furnace Creek * Furnace_Creek
+Galena Canyon * Galena_Canyon
+Gallatin Pass * Gallatin_Pass
+Gem Hill * Gem_Hill
+Gillespie Lake 1 * Gillespie_Lake_1
+Gillespie Lake 2 * Gillespie_Lake_2
+Goblin Valley * Goblin_Valley
+Gold Ace * Gold_Ace
+Gold Valley * Gold_Valley
+Goldstone DRT * Goldstone_DRT
+Goldstone ccam * Goldstone_ccam
+Goler Gulch * Goler_Gulch
+Goodwin 1 * Goodwin_1
+Goodwin 2 * Goodwin_2
+Goulburn 1 * Goulburn_1
+Goulburn 2 * Goulburn_2
+Goulburn 3 * Goulburn_3
+Goulburn 4 * Goulburn_4
+Goulburn 5 * Goulburn_5
+Goulburn 6 * Goulburn_6
+Goulburn 7 * Goulburn_7
+Goulburn 8 * Goulburn_8
+Green Head * Green_Head
+Greenhorn Drill Hole 1 * Greenhorn_Drill_Hole_1
+Greenhorn Drill Hole 2 * Greenhorn_Drill_Hole_2
+Greenhorn Drill Hole RMI * Greenhorn_Drill_Hole_RMI
+Greenhorn Drill Hole RMI Tailings * Greenhorn_Drill_Hole_RMI_Tailings
+Greenhorn Tailings CCAM * Greenhorn_Tailings_CCAM
+Greenhorn ccam * Greenhorn_ccam
+Greenhorn ccam2 * Greenhorn_ccam2
+Hackberry Spring * Hackberry_Spring
+HalfPint 1 * HalfPint_1
+HalfPint 2 * HalfPint_2
+Hall Canyon * Hall_Canyon
+Hardy Hill * Hardy_Hill
+Hawk Creek * Hawk_Creek
+Hay Creek * Hay_Creek
+Hay Creek new * Hay_Creek_new
+Hayden Peak * Hayden_Peak
+Hell Creek * Hell_Creek
+Hematite Ridge 1 * Hematite_Ridge_1
+Hematite Ridge 2 * Hematite_Ridge_2
+Hematite Ridge 3 * Hematite_Ridge_3
+Hematite Ridge 4 * Hematite_Ridge_4
+Hematite Ridge 5 * Hematite_Ridge_5
+Hematite Ridge 6 * Hematite_Ridge_6
+High Park * High_Park
+Hole in the Wall * Hole_in_the_Wall
+Holts Ledge * Holts_Ledge
+Horned Toad * Horned_Toad
+Horseshoe Hills * Horseshoe_Hills
+Hudson Bay * Hudson_Bay
+Hungry Horse * Hungry_Horse
+Hunter Mountain * Hunter_Mountain
+Husky Creek * Husky_Creek
+Ibex Pass * Ibex_Pass
+Ibex Pass 785 * Ibex_Pass_785
+Ivanpah ccam * Ivanpah_ccam
+Jackson Lake * Jackson_Lake
+Jackson Lake 2 * Jackson_Lake_2
+Jackson Lake 3 * Jackson_Lake_3
+Jake 1 * Jake_1
 John Klein * John_Klein
+John Klein CCAM new * John_Klein_CCAM_new
+John Klein RP2 * John_Klein_RP2
+John Klein RP3 * John_Klein_RP3
+Johnny Cake * Johnny_Cake
+Joshua Tree * Joshua_Tree
+JumJum CCAM * JumJum_CCAM
+Kazan CCAM * Kazan_CCAM
+Keeler Canyon * Keeler_Canyon
+Keetley ccam * Keetley_ccam
+Kenwood River * Kenwood_River
+Kenyon HighAlbedo * Kenyon_HighAlbedo
+Kevins Dam * Kevins_Dam
+Kilian 1 * Kilian_1
+King CCAM * King_CCAM
+King Leopold * King_Leopold
+Kings Peak * Kings_Peak
+Kiwi Lake safe * Kiwi_Lake_safe
+Knob Lake * Knob_Lake
+La Reine * La_Reine
+Labyrinth Lake * Labyrinth_Lake
+Lady Nye * Lady_Nye
+Lady Nye 2 * Lady_Nye_2
+Lady Nye 3 * Lady_Nye_3
+Lady Nye 4 * Lady_Nye_4
+Lane Mountain * Lane_Mountain
+Last Chance Canyon * Last_Chance_Canyon
+Le Moyne * Le_Moyne
+Lebanon 640 * Lebanon_640
+Ledger DRT CCAM * Ledger_DRT_CCAM
+Lee Flat * Lee_Flat
+Light Toned Ridge * Light_Toned_Ridge
+Little Dal * Little_Dal
+Little Devil * Little_Devil
+Little Gold * Little_Gold
+Little Wind River * Little_Wind_River
+Littleton 640 * Littleton_640
+Live Oak Canyon * Live_Oak_Canyon
+Long Island * Long_Island
+Lucas Creek * Lucas_Creek
+Lue Point * Lue_Point
+MCAM CT Triad * MCAM_CT_Triad
+MCAM CT WhiteMagnet * MCAM_CT_WhiteMagnet
+MCAM CT White Green * MCAM_CT_White_Green
+MCAM CT White Raster * MCAM_CT_White_Raster
+Mabel Downs * Mabel_Downs
+Mackay Dome * Mackay_Dome
+Mahoney 2 * Mahoney_2
+Mallard Lake * Mallard_Lake
+Mara 1 * Mara_1
+Marent 1065 * Marent_1065
+Mary River * Mary_River
+Maude Headley * Maude_Headley
+Measles Point * Measles_Point
+Meetinghouse 2 * Meetinghouse_2
+Mission Creek * Mission_Creek
+Missoula A * Missoula_A
+Missoula B * Missoula_B
+Missoula C * Missoula_C
+Missoula D * Missoula_D
+Mojave2 DTa * Mojave2_DTa
+Mojave2 DTb * Mojave2_DTb
+Mojave2 FDH ChemCam * Mojave2_FDH_ChemCam
+Mojave2 MDH * Mojave2_MDH
+Mojave2 MDH ChemCam * Mojave2_MDH_ChemCam
+Mojave2 PSDP CC * Mojave2_PSDP_CC
+Mojave2 post sieve dump * Mojave2_post_sieve_dump
+Mojave2 presieve dump * Mojave2_presieve_dump
+Mojave Bedrock * Mojave_Bedrock
+Mojave Chunks * Mojave_Chunks
+Mojave Chunks Passive * Mojave_Chunks_Passive
+Mojave Mini Drill Bottom * Mojave_Mini_Drill_Bottom
+Mont Wright 337 * Mont_Wright_337
+Mount Sharp * Mount_Sharp
+Mount Amy * Mount_Amy
+Mount Eduni * Mount_Eduni
+Mount Lowe * Mount_Lowe
+Mount Marion * Mount_Marion
+Mount Powell * Mount_Powell
+Mount Wilson * Mount_Wilson
+Mountain Girl * Mountain_Girl
+Mountain Home * Mountain_Home
+Mt Sharp 1 * Mt_Sharp_1
+Mt Sharp 2 * Mt_Sharp_2
+Mt Tug * Mt_Tug
+New Scotland * New_Scotland
+Noriss 2 * Noriss_2
+OBriens Creek * OBriens_Creek
+Old woman * Old_woman
+Ophir ccam * Ophir_ccam
+Osborne Canyon * Osborne_Canyon
+Oso Canyon * Oso_Canyon
+Parry Bay * Parry_Bay
+Patterson Lake * Patterson_Lake
+Peace Vallis Channel * Peace_Vallis_Channel
+Peach Spring * Peach_Spring
+Peacock Hills * Peacock_Hills
+Pearson 1 * Pearson_1
+Pearson 2 * Pearson_2
+Pearson DP * Pearson_DP
+Pekanatui ZS * Pekanatui_ZS
+Peleus RMI * Peleus_RMI
+Pickhandle DRT * Pickhandle_DRT
+Pine Plains ccam * Pine_Plains_ccam
+Pink Cliffs * Pink_Cliffs
+Platypus Ridge * Platypus_Ridge
+Podunk 2 * Podunk_2
+Pointing test * Pointing_test
+Port Ewen * Port_Ewen
+Port Radium 1 * Port_Radium_1
+Port Radium 2 * Port_Radium_2
+Post Hill * Post_Hill
+Providence Mountains * Providence_Mountains
+Punchbowl CCAM * Punchbowl_CCAM
+Pyramid Hills * Pyramid_Hills
+Quartet new * Quartet_new
+Quartz Spring * Quartz_Spring
+Quechee Gorge * Quechee_Gorge
+Rainbow Basin * Rainbow_Basin
+Red Lodge * Red_Lodge
+Red Pass * Red_Pass
+Red Rock Canyon * Red_Rock_Canyon
+Red Wine * Red_Wine
+Reddick Bight * Reddick_Bight
+Rensselaer CCAM * Rensselaer_CCAM
+Resting Spring * Resting_Spring
+Revenue Canyon * Revenue_Canyon
+Richardson 2 * Richardson_2
+Richmond Gulf * Richmond_Gulf
+Ritchie ccam * Ritchie_ccam
+Robin Hood * Robin_Hood
+Rock Stream * Rock_Stream
+Rocknest3 1 * Rocknest3_1
+Rocknest3 2 * Rocknest3_2
+Rocknest3 DP * Rocknest3_DP
+Rocknest 3 Top1 * Rocknest_3_Top1
+Rodent Hill * Rodent_Hill
+Ronan drt 2 * Ronan_drt_2
+Ruker RP ccam * Ruker_RP_ccam
+Rusty Shale * Rusty_Shale
+Saddle Peak * Saddle_Peak
+Saline Valley * Saline_Valley
+San Francisquito ccam * San_Francisquito_ccam
+San Gabriel * San_Gabriel
+San Rafael Swell * San_Rafael_Swell
+San Sou * San_Sou
+San Timoteo * San_Timoteo
+Sandy Dam * Sandy_Dam
+Sandy Dam Night * Sandy_Dam_Night
+Sandy Dam night * Sandy_Dam_night
+Santa Ana DRT * Santa_Ana_DRT
+Scenic Point * Scenic_Point
+Seal Lake * Seal_Lake
+Seeley 1031 * Seeley_1031
+Shepherds Bore * Shepherds_Bore
+Siding Spring background * Siding_Spring_background
+Siding Spring coma * Siding_Spring_coma
+Siding Spring nucleus * Siding_Spring_nucleus
+Silver King * Silver_King
+Silver Valley * Silver_Valley
+Skull Creek * Skull_Creek
+Sky Flat 1000mm * Sky_Flat_1000mm
+Sky Flat 1200mm * Sky_Flat_1200mm
+Sky Flat 2000mm * Sky_Flat_2000mm
+Sky Flat 20m * Sky_Flat_20m
+Sky Flat 4m * Sky_Flat_4m
+Sky Flat 56m * Sky_Flat_56m
+Sky Flat 6m * Sky_Flat_6m
+Sky Obs 2X * Sky_Obs_2X
+Snake River * Snake_River
+Snow Bowl * Snow_Bowl
+Sober Up Creek * Sober_Up_Creek
+Society Cliffs * Society_Cliffs
+Soledad Pass * Soledad_Pass
+Sorrel Springs * Sorrel_Springs
+Sorrel Springs 2 * Sorrel_Springs_2
+South Park2 * South_Park2
+Spotted Bear * Spotted_Bear
+Square Top * Square_Top
+Square Top 2 * Square_Top_2
+Staten Island * Staten_Island
+Steep Rock * Steep_Rock
+Stephen DP * Stephen_DP
+Stephen DP 2 * Stephen_DP_2
+Stirling 2 * Stirling_2
+Storrs Pond * Storrs_Pond
+Stovepipe Wells * Stovepipe_Wells
+Straight Cliffs * Straight_Cliffs
+Sulky CCAM * Sulky_CCAM
+Summer Hill * Summer_Hill
+Sutton Inlier * Sutton_Inlier
+Sutton Inlier 2 * Sutton_Inlier_2
+Sutton Inlier 3 * Sutton_Inlier_3
+Swampy bay * Swampy_bay
+Swimming Woman Canyon * Swimming_Woman_Canyon
+Tamarack River * Tamarack_River
+Tappers CCAM * Tappers_CCAM
+Tecoya ccam * Tecoya_ccam
+Telegraph PK PreSieve Dump * Telegraph_PK_PreSieve_Dump
+Telegraph Peak DT * Telegraph_Peak_DT
+Telegraph Peak Drill Hole * Telegraph_Peak_Drill_Hole
+Telegraph Peak ccam * Telegraph_Peak_ccam
+Telegraph Peak drill hole * Telegraph_Peak_drill_hole
+Telegraph Peak drill hole 2 * Telegraph_Peak_drill_hole_2
+Telegraph Peak drill hole 3 * Telegraph_Peak_drill_hole_3
+Telegraph Peak drill hole 4 * Telegraph_Peak_drill_hole_4
+Telegraph peak post-sieve dump pile ccam * Telegraph_peak_post-sieve_dump_pile_ccam
+Telescope Peak * Telescope_Peak
+Terra Nova * Terra_Nova
+Tete Jaune * Tete_Jaune
+The Maze * The_Maze
+Thor Lake * Thor_Lake
+Tierra Blanca * Tierra_Blanca
+Tilt Point * Tilt_Point
+Timber Mountain * Timber_Mountain
+Tin Can Alley * Tin_Can_Alley
+Tinder Box * Tinder_Box
+Tindir 1 * Tindir_1
+Tip Top Mountain * Tip_Top_Mountain
+Tippy Buttes * Tippy_Buttes
+Titus Canyon * Titus_Canyon
+Top Square Top * Top_Square_Top
+Topanga CCAM * Topanga_CCAM
+Turret Sieve * Turret_Sieve
+Turret Sieve mosaic A * Turret_Sieve_mosaic_A
+Turret Sieve mosaic B * Turret_Sieve_mosaic_B
+Union Springs * Union_Springs
+Upheaval Dome * Upheaval_Dome
+Vaqueros 01 * Vaqueros_01
+Vaqueros 02 * Vaqueros_02
+Vaqueros 03 * Vaqueros_03
+Wagon Box * Wagon_Box
+Wakham Bay * Wakham_Bay
+Wallace ccam1 * Wallace_ccam1
+Warm Spring * Warm_Spring
+Weed Creek * Weed_Creek
+Wernecke 1 * Wernecke_1
+West Falls * West_Falls
+Whirlwind Valley * Whirlwind_Valley
+White Cliffs * White_Cliffs
+White Cliffs 2 * White_Cliffs_2
+White Mountain * White_Mountain
+Whitmore 2 * Whitmore_2
+Wild Horse Mesa * Wild_Horse_Mesa
+Windjana Mini Drill Horizontal * Windjana_Mini_Drill_Horizontal
+Windjana Mini Drill Tailings * Windjana_Mini_Drill_Tailings
+Windjana Mini Drill Vertical * Windjana_Mini_Drill_Vertical
+Windjana drill Hole RMI * Windjana_drill_Hole_RMI
+Windjana drill tailings * Windjana_drill_tailings
+Windjana drill tailings2 * Windjana_drill_tailings2
+Wood Canyon * Wood_Canyon
+Young Point * Young_Point
+Yule Bay * Yule_Bay
+Zenith Sky Flat * Zenith_Sky_Flat
+Zephyr ZS * Zephyr_ZS
+Zzyzx Spring * Zzyzx_Spring
+confidence hills postsieve dump cc * confidence_hills_postsieve_dump_cc
+dark at night * dark_at_night
+possible screw chemcam target * possible_screw_chemcam_target
+rocknest 3 top1 * rocknest_3_top1
+seward 1 * seward_1
+sol00704 Windjana dump pile * sol00704_Windjana_dump_pile
+Pine Plains * Pine_Plains
+Bardin Bluff * Bardin_Bluff
+Point Coulomb * Point_Coulomb
+Bonnet Plume DW * Bonnet_Plume_DW
+Bathrust Inlet * Bathrust_Inlet
+;;===========================================================================================
+;;  TARGET NAMES WITH POSESSIVES
+;;===========================================================================================
+Acasta s * Acasta_s
+Acme s * Acme_s
+Adams_Sound s * Adams_Sound_s
+Adlavik s * Adlavik_s
+Afton_Canyon_CCAM s * Afton_Canyon_CCAM_s
+Agate_Hill s * Agate_Hill_s
+Agency s * Agency_s
+Aguereberry_Point s * Aguereberry_Point_s
+Aillik s * Aillik_s
+Airfield s * Airfield_s
+Akaitcho s * Akaitcho_s
+Albee s * Albee_s
+Albert s * Albert_s
+Alberton s * Alberton_s
+Alma s * Alma_s
+Alsen s * Alsen_s
+Altar_Mountain s * Altar_Mountain_s
+Alvord s * Alvord_s
+Amagok s * Amagok_s
+Amer s * Amer_s
+Ameto s * Ameto_s
+Amsden s * Amsden_s
+Anderson s * Anderson_s
+Andrews_Mountain s * Andrews_Mountain_s
+Aneth s * Aneth_s
+Aneth_2 s * Aneth_2_s
+Angelo s * Angelo_s
+Angmaat s * Angmaat_s
+Antelope_Valley s * Antelope_Valley_s
+Anton s * Anton_s
+Anvil_Spring_Canyon s * Anvil_Spring_Canyon_s
+Apple s * Apple_s
+Ashley_Lakes s * Ashley_Lakes_s
+Ashokan s * Ashokan_s
+Ashuanipi s * Ashuanipi_s
+Asiak s * Asiak_s
+Athole_Point s * Athole_Point_s
+Attikamagen s * Attikamagen_s
+Augusta s * Augusta_s
+Aztec s * Aztec_s
+Aztec_2 s * Aztec_2_s
+Aztec_819 s * Aztec_819_s
+Babrongan s * Babrongan_s
+Badwater s * Badwater_s
+Bagnold_Dune s * Bagnold_Dune_s
+Bagnold_Dune_4_southern_slipface s * Bagnold_Dune_4_southern_slipface_s
+Balboa_(Dismal_Lakes) s * Balboa_(Dismal_Lakes)_s
+Balboa_2 s * Balboa_2_s
+Balch_Hill s * Balch_Hill_s
+Bald_Mountain s * Bald_Mountain_s
+Bald_Mountain2 s * Bald_Mountain2_s
+Bald_Mountain_3 s * Bald_Mountain_3_s
+Baldwin s * Baldwin_s
+Balmville s * Balmville_s
+Bardin_Bluffs2_pebble s * Bardin_Bluffs2_pebble_s
+Bardin_Bluffs_2 s * Bardin_Bluffs_2_s
+Barn_2 s * Barn_2_s
+Barstow s * Barstow_s
+Bastion s * Bastion_s
+Bathurst s * Bathurst_s
+Beachrock s * Beachrock_s
+Beacon s * Beacon_s
+Beacon_Heights_ccam s * Beacon_Heights_ccam_s
+Beagle s * Beagle_s
+Bear_Trap_Canyon s * Bear_Trap_Canyon_s
+Bearpaw s * Bearpaw_s
+Beartooth_Pass s * Beartooth_Pass_s
+Beaulieu s * Beaulieu_s
+Beaver_Brook_1 s * Beaver_Brook_1_s
+Beaver_Brook_2 s * Beaver_Brook_2_s
+Beaverhead s * Beaverhead_s
+Beck_Spring s * Beck_Spring_s
+Beckwith s * Beckwith_s
+Becraft s * Becraft_s
+Bedford s * Bedford_s
+Bedford_2 s * Bedford_2_s
+Beechey  s * Beechey _s
+Beers s * Beers_s
+Belcher s * Belcher_s
+Bell_Island_1 s * Bell_Island_1_s
+Belle_Fourche s * Belle_Fourche_s
+Benchmark s * Benchmark_s
+Berwick s * Berwick_s
+Big_Arm s * Big_Arm_s
+Big_Arm_2 s * Big_Arm_2_s
+Big_Rock s * Big_Rock_s
+Big_Salmon s * Big_Salmon_s
+Big_Sky s * Big_Sky_s
+Big_Sky_Drill_Hole_ccam s * Big_Sky_Drill_Hole_ccam_s
+Big_Sky_Full_Drill s * Big_Sky_Full_Drill_s
+Big_Sky_Post_Sieve_Dump_Pile s * Big_Sky_Post_Sieve_Dump_Pile_s
+Big_Sky_Tailings s * Big_Sky_Tailings_s
+Big_Sky_tailings_ccam s * Big_Sky_tailings_ccam_s
+Big_Snowies s * Big_Snowies_s
+Bindi s * Bindi_s
+Bird_River s * Bird_River_s
+Bird_Spring s * Bird_Spring_s
+Birdbear s * Birdbear_s
+Bishop s * Bishop_s
+Black_Dragon s * Black_Dragon_s
+Black_Rock s * Black_Rock_s
+Black_Trout s * Black_Trout_s
+Blackhead s * Blackhead_s
+Blackjack s * Blackjack_s
+Blackrock_1 s * Blackrock_1_s
+Blackrock_2 s * Blackrock_2_s
+Blackstone s * Blackstone_s
+Blanchet s * Blanchet_s
+Blanco_Mountain s * Blanco_Mountain_s
+Blina s * Blina_s
+Blind_Gulch s * Blind_Gulch_s
+Blinker_Hill s * Blinker_Hill_s
+Bloods_Brook s * Bloods_Brook_s
+Bluff s * Bluff_s
+Bluff_3 s * Bluff_3_s
+BonanzaKing2_CCAM s * BonanzaKing2_CCAM_s
+BonanzaKing3 s * BonanzaKing3_s
+Bonanza_King s * Bonanza_King_s
+Bonanza_King1 s * Bonanza_King1_s
+Bonanza_King1_ccam s * Bonanza_King1_ccam_s
+Bonanza_King2 s * Bonanza_King2_s
+Bonner s * Bonner_s
+Bonnet_Plume s * Bonnet_Plume_s
+Bonnet_Plume_Sol166 s * Bonnet_Plume_Sol166_s
+Book_Cliffs s * Book_Cliffs_s
+Bootlegger s * Bootlegger_s
+Bopesta s * Bopesta_s
+Bowers s * Bowers_s
+Bradley s * Bradley_s
+Brady s * Brady_s
+Brazer s * Brazer_s
+Buckskin s * Buckskin_s
+Buckskin_Full_Drill_Hole s * Buckskin_Full_Drill_Hole_s
+Buckskin_Full_Drill_Hole_Tailings_ccam s * Buckskin_Full_Drill_Hole_Tailings_ccam_s
+Buckskin_Full_Drill_Hole_Tailings_ccam  s * Buckskin_Full_Drill_Hole_Tailings_ccam _s
+Buckskin_Full_Drill_Hole_ccam s * Buckskin_Full_Drill_Hole_ccam_s
+Buffalo_Basin s * Buffalo_Basin_s
+Buffalo_Flat s * Buffalo_Flat_s
+Buit_Lake s * Buit_Lake_s
+Bull s * Bull_s
+Bull_Arm s * Bull_Arm_s
+Bullwacker s * Bullwacker_s
+Burke s * Burke_s
+Butchers_Gulley_hor s * Butchers_Gulley_hor_s
+Butchers_Gulley_ver s * Butchers_Gulley_ver_s
+Butler s * Butler_s
+Butte_Valley s * Butte_Valley_s
+Bylot s * Bylot_s
+Byng s * Byng_s
+Byrd s * Byrd_s
+CCAM_CCCT_Pass_Triad s * CCAM_CCCT_Pass_Triad_s
+CCAM_CT_Triad s * CCAM_CT_Triad_s
+CC_BT_0318a s * CC_BT_0318a_s
+CC_BT_0328a s * CC_BT_0328a_s
+CC_BT_0330a s * CC_BT_0330a_s
+CC_BT_0334a s * CC_BT_0334a_s
+CC_BT_0341a s * CC_BT_0341a_s
+CC_BT_0350a s * CC_BT_0350a_s
+CC_BT_0352a s * CC_BT_0352a_s
+CC_BT_0355a s * CC_BT_0355a_s
+CC_BT_0357a s * CC_BT_0357a_s
+CC_BT_0359a s * CC_BT_0359a_s
+CC_BT_0364a s * CC_BT_0364a_s
+CC_BT_0384a s * CC_BT_0384a_s
+CC_BT_0386a s * CC_BT_0386a_s
+CC_BT_0389a s * CC_BT_0389a_s
+CC_BT_0391a s * CC_BT_0391a_s
+CC_BT_0397a s * CC_BT_0397a_s
+CC_BT_0406a s * CC_BT_0406a_s
+CC_BT_0424a s * CC_BT_0424a_s
+CC_BT_0427a s * CC_BT_0427a_s
+CC_BT_0430a s * CC_BT_0430a_s
+CC_BT_0432a s * CC_BT_0432a_s
+CC_BT_0434a s * CC_BT_0434a_s
+CC_BT_0453a s * CC_BT_0453a_s
+CC_BT_0466a s * CC_BT_0466a_s
+CC_BT_0471a s * CC_BT_0471a_s
+CC_BT_0473a s * CC_BT_0473a_s
+CC_BT_0475a s * CC_BT_0475a_s
+CC_BT_0491a s * CC_BT_0491a_s
+CC_BT_0505a s * CC_BT_0505a_s
+CC_BT_0507a s * CC_BT_0507a_s
+CC_BT_0509a s * CC_BT_0509a_s
+CC_BT_0527a s * CC_BT_0527a_s
+CC_BT_0529a s * CC_BT_0529a_s
+CC_BT_0543a s * CC_BT_0543a_s
+CC_BT_0582a s * CC_BT_0582a_s
+CC_BT_0588a s * CC_BT_0588a_s
+CC_BT_0604a s * CC_BT_0604a_s
+CC_BT_0607a s * CC_BT_0607a_s
+CC_BT_0636a s * CC_BT_0636a_s
+CC_BT_0637a s * CC_BT_0637a_s
+CC_BT_0642a s * CC_BT_0642a_s
+CC_BT_0645a s * CC_BT_0645a_s
+CC_BT_0648a s * CC_BT_0648a_s
+CC_BT_0652a s * CC_BT_0652a_s
+CC_BT_0663a s * CC_BT_0663a_s
+CC_BT_0664a s * CC_BT_0664a_s
+CC_BT_0668a s * CC_BT_0668a_s
+CC_BT_0672a s * CC_BT_0672a_s
+CC_BT_0686a s * CC_BT_0686a_s
+CC_BT_0689a s * CC_BT_0689a_s
+CC_BT_0706a s * CC_BT_0706a_s
+CC_BT_0709a s * CC_BT_0709a_s
+CC_BT_0710a s * CC_BT_0710a_s
+CC_BT_0711a s * CC_BT_0711a_s
+CC_BT_0714a s * CC_BT_0714a_s
+CC_BT_0717a s * CC_BT_0717a_s
+CC_BT_0720a s * CC_BT_0720a_s
+CC_BT_0730a s * CC_BT_0730a_s
+CC_BT_0734a s * CC_BT_0734a_s
+CC_BT_0738a s * CC_BT_0738a_s
+CC_BT_0745a s * CC_BT_0745a_s
+CC_BT_0746a s * CC_BT_0746a_s
+CC_BT_0752a s * CC_BT_0752a_s
+CC_BT_0780a s * CC_BT_0780a_s
+CC_BT_0786a s * CC_BT_0786a_s
+CC_BT_0788a s * CC_BT_0788a_s
+CC_BT_0791a s * CC_BT_0791a_s
+CC_BT_0795a s * CC_BT_0795a_s
+CC_MR_wheel_0493a s * CC_MR_wheel_0493a_s
+CC_MR_wheel_0502a s * CC_MR_wheel_0502a_s
+Cajon s * Cajon_s
+Cal_target_sharp_edge s * Cal_target_sharp_edge_s
+Calef s * Calef_s
+Camp_Island s * Camp_Island_s
+Camp_Ridge_ccam s * Camp_Ridge_ccam_s
+Campito s * Campito_s
+Campito_2 s * Campito_2_s
+Canadian_Creek s * Canadian_Creek_s
+Cape_Smith s * Cape_Smith_s
+Cape_Strawberry s * Cape_Strawberry_s
+Caribou s * Caribou_s
+Carol s * Carol_s
+Carrara s * Carrara_s
+Carryer s * Carryer_s
+Carthew s * Carthew_s
+Cartwright s * Cartwright_s
+Cascade_Bay s * Cascade_Bay_s
+Cascade_Bay_Nighttime s * Cascade_Bay_Nighttime_s
+Castle_Mountain s * Castle_Mountain_s
+Castle_Valley s * Castle_Valley_s
+Castlegate s * Castlegate_s
+Castlegate_2 s * Castlegate_2_s
+Cat_Creek s * Cat_Creek_s
+Chakonipau s * Chakonipau_s
+Chamberlain s * Chamberlain_s
+Chantrey s * Chantrey_s
+Charity s * Charity_s
+Cherry_Valley s * Cherry_Valley_s
+Chioak s * Chioak_s
+Chirup s * Chirup_s
+Chocolate_Sundae_Mountain s * Chocolate_Sundae_Mountain_s
+Chpaaqn s * Chpaaqn_s
+Chpaaqn  s * Chpaaqn _s
+Christopher_Island s * Christopher_Island_s
+Cima s * Cima_s
+Clarabelle s * Clarabelle_s
+Clark s * Clark_s
+Cline_A_RMI_Moasic_Start s * Cline_A_RMI_Moasic_Start_s
+Cline_B_RMI_Mosaic_Start s * Cline_B_RMI_Mosaic_Start_s
+Cline_C_RMI_Moasic_Start s * Cline_C_RMI_Moasic_Start_s
+Clinton s * Clinton_s
+Cobleskill s * Cobleskill_s
+Cockscomb s * Cockscomb_s
+Cody s * Cody_s
+Coldwater s * Coldwater_s
+Comb_Ridge_ccam s * Comb_Ridge_ccam_s
+Cone_Hill s * Cone_Hill_s
+Confidence_Hills s * Confidence_Hills_s
+Confidence_Hills_Dump_Pile s * Confidence_Hills_Dump_Pile_s
+Confidence_Hills_Full_Drill_Hole s * Confidence_Hills_Full_Drill_Hole_s
+Connecting_Point s * Connecting_Point_s
+Conrad s * Conrad_s
+Coombs s * Coombs_s
+Coombs_1067 s * Coombs_1067_s
+Copper_Queen s * Copper_Queen_s
+Coppermine s * Coppermine_s
+Corkwood s * Corkwood_s
+Coronation s * Coronation_s
+Corrara s * Corrara_s
+Cortlandt s * Cortlandt_s
+Cosmo s * Cosmo_s
+Coso s * Coso_s
+Cow_Bore s * Cow_Bore_s
+Cowhole_Mountain s * Cowhole_Mountain_s
+Coyote_Basin s * Coyote_Basin_s
+Crazy_Hollow s * Crazy_Hollow_s
+Crazy_Mountain s * Crazy_Mountain_s
+Crest s * Crest_s
+Crestaurum s * Crestaurum_s
+Crestaurum_1 s * Crestaurum_1_s
+Crestaurum_2 s * Crestaurum_2_s
+Croteau s * Croteau_s
+Crowder s * Crowder_s
+Crowley s * Crowley_s
+Crystal_Spring s * Crystal_Spring_s
+Cucumongo s * Cucumongo_s
+Cumberland s * Cumberland_s
+Cumberland3 s * Cumberland3_s
+Cumberland3_ccam s * Cumberland3_ccam_s
+CumberlandA_LL s * CumberlandA_LL_s
+CumberlandNew_RP s * CumberlandNew_RP_s
+Cumberland_Bowl s * Cumberland_Bowl_s
+Cumberland_CCAM s * Cumberland_CCAM_s
+Cumberland_DRT_RP s * Cumberland_DRT_RP_s
+Cunningham s * Cunningham_s
+Cuzcatlan s * Cuzcatlan_s
+DT_RP5_STG s * DT_RP5_STG_s
+DT_RP6 s * DT_RP6_s
+Dakota s * Dakota_s
+Damnation s * Damnation_s
+Dark_Fields s * Dark_Fields_s
+Darwin s * Darwin_s
+Deadman_Pass s * Deadman_Pass_s
+Deadwood_ccam s * Deadwood_ccam_s
+Deep_Kill_CCAM s * Deep_Kill_CCAM_s
+Deep_Spring s * Deep_Spring_s
+Delaware_River s * Delaware_River_s
+Deloro s * Deloro_s
+Delta s * Delta_s
+Denault s * Denault_s
+Denham s * Denham_s
+Desert_Range s * Desert_Range_s
+Detector_Background s * Detector_Background_s
+Devils_Basin s * Devils_Basin_s
+Diamond_Point s * Diamond_Point_s
+Dillinger s * Dillinger_s
+Dingo_Gap_Dune_RMI s * Dingo_Gap_Dune_RMI_s
+Discovery_Creek s * Discovery_Creek_s
+Distant_Crater s * Distant_Crater_s
+Dixon s * Dixon_s
+Dobie s * Dobie_s
+Doney s * Doney_s
+Doran s * Doran_s
+Double_Mer s * Double_Mer_s
+Doublet s * Doublet_s
+Dougalls s * Dougalls_s
+Dougalls_2 s * Dougalls_2_s
+Douglas s * Douglas_s
+Dover s * Dover_s
+Dragons_Teeth s * Dragons_Teeth_s
+Drill_tip_1 s * Drill_tip_1_s
+Drillhole s * Drillhole_s
+Drilltailings s * Drilltailings_s
+Dublin_Gulch s * Dublin_Gulch_s
+Duluth s * Duluth_s
+DumpPile s * DumpPile_s
+Dump_Pile s * Dump_Pile_s
+Duncan_Lake s * Duncan_Lake_s
+Duncan_Lake_vertical_start s * Duncan_Lake_vertical_start_s
+Dunderberg s * Dunderberg_s
+Dune_Field s * Dune_Field_s
+Dune_Fields s * Dune_Fields_s
+Dunefield_Sol550 s * Dunefield_Sol550_s
+Dunefield_Sol562 s * Dunefield_Sol562_s
+Dunes_657 s * Dunes_657_s
+Dunes_727_CCAM s * Dunes_727_CCAM_s
+Dunes_Sol516 s * Dunes_Sol516_s
+Dunkirk s * Dunkirk_s
+Dunn_Hill_2 s * Dunn_Hill_2_s
+Duperow s * Duperow_s
+Eagle_Mountain s * Eagle_Mountain_s
+East_River s * East_River_s
+Eastman s * Eastman_s
+Eaton_Canyon s * Eaton_Canyon_s
+Eaton_Canyon_2 s * Eaton_Canyon_2_s
+Edith s * Edith_s
+Egan s * Egan_s
+Elbert s * Elbert_s
+Elgee s * Elgee_s
+Eliot s * Eliot_s
+Elizabeth s * Elizabeth_s
+Elk s * Elk_s
+Elsinore s * Elsinore_s
+Elvire s * Elvire_s
+Ely_Springs s * Ely_Springs_s
+Emery s * Emery_s
+Empire s * Empire_s
+Ennis_ccam s * Ennis_ccam_s
+Epaulet_Peak s * Epaulet_Peak_s
+Epworth s * Epworth_s
+Epworth2 s * Epworth2_s
+Epworth_3 s * Epworth_3_s
+Eqalulik s * Eqalulik_s
+Erskine s * Erskine_s
+Esaw s * Esaw_s
+Espinoza s * Espinoza_s
+Eureka s * Eureka_s
+Evaro s * Evaro_s
+Exeter s * Exeter_s
+Exeter_2 s * Exeter_2_s
+Exshaw s * Exshaw_s
+Fabricius_Cliffs s * Fabricius_Cliffs_s
+Fairview_Valley s * Fairview_Valley_s
+Fairyland_Point s * Fairyland_Point_s
+Falla s * Falla_s
+Fargoo s * Fargoo_s
+Feather s * Feather_s
+Fern s * Fern_s
+Ferriman s * Ferriman_s
+Ferron s * Ferron_s
+Finger_Hill s * Finger_Hill_s
+Finley s * Finley_s
+Firemoon s * Firemoon_s
+Fisch_Scale s * Fisch_Scale_s
+Fitzpatrick s * Fitzpatrick_s
+Flagstone_Bench s * Flagstone_Bench_s
+Flaherty s * Flaherty_s
+Flaherty_2 s * Flaherty_2_s
+Flat s * Flat_s
+Flathead s * Flathead_s
+Fleur_de_Lys s * Fleur_de_Lys_s
+Forman s * Forman_s
+Forster s * Forster_s
+Fort_Conrad s * Fort_Conrad_s
+Fox_Hills s * Fox_Hills_s
+Fred_and_George_Creek s * Fred_and_George_Creek_s
+Frog s * Frog_s
+Frome_Rocks s * Frome_Rocks_s
+Frontier s * Frontier_s
+Frood_1 s * Frood_1_s
+Frood_2 s * Frood_2_s
+Funeral_Peak s * Funeral_Peak_s
+Funk_Valley_RP s * Funk_Valley_RP_s
+Furnace_Creek s * Furnace_Creek_s
+Fury s * Fury_s
+Galena_Canyon s * Galena_Canyon_s
+Gallatin_Pass s * Gallatin_Pass_s
+Garley s * Garley_s
+Gem_Hill s * Gem_Hill_s
+Gilboa s * Gilboa_s
+Gillespie_Lake_1 s * Gillespie_Lake_1_s
+Gillespie_Lake_2 s * Gillespie_Lake_2_s
+Glidden s * Glidden_s
+Goblin_Valley s * Goblin_Valley_s
+Gog s * Gog_s
+Gogebic s * Gogebic_s
+Gold s * Gold_s
+Gold_Ace s * Gold_Ace_s
+Gold_Valley s * Gold_Valley_s
+Goldstone_DRT s * Goldstone_DRT_s
+Goldstone_ccam s * Goldstone_ccam_s
+Goler_Gulch s * Goler_Gulch_s
+Goodwin_1 s * Goodwin_1_s
+Goodwin_2 s * Goodwin_2_s
+Gordon s * Gordon_s
+Goulburn_1 s * Goulburn_1_s
+Goulburn_2 s * Goulburn_2_s
+Goulburn_3 s * Goulburn_3_s
+Goulburn_4 s * Goulburn_4_s
+Goulburn_5 s * Goulburn_5_s
+Goulburn_6 s * Goulburn_6_s
+Goulburn_7 s * Goulburn_7_s
+Goulburn_8 s * Goulburn_8_s
+Gowganda s * Gowganda_s
+Grainger s * Grainger_s
+Green_Head s * Green_Head_s
+Greenhorn_Drill_Hole_1 s * Greenhorn_Drill_Hole_1_s
+Greenhorn_Drill_Hole_2 s * Greenhorn_Drill_Hole_2_s
+Greenhorn_Drill_Hole_RMI s * Greenhorn_Drill_Hole_RMI_s
+Greenhorn_Drill_Hole_RMI_Tailings s * Greenhorn_Drill_Hole_RMI_Tailings_s
+Greenhorn_Tailings_CCAM s * Greenhorn_Tailings_CCAM_s
+Greenhorn_ccam s * Greenhorn_ccam_s
+Greenhorn_ccam2 s * Greenhorn_ccam2_s
+Greenwater s * Greenwater_s
+Greylock s * Greylock_s
+Gunflint s * Gunflint_s
+Gunsight s * Gunsight_s
+Gypsy s * Gypsy_s
+Hackberry_Spring s * Hackberry_Spring_s
+Haig s * Haig_s
+Hakatai s * Hakatai_s
+HalfPint_1 s * HalfPint_1_s
+HalfPint_2 s * HalfPint_2_s
+Hall_Canyon s * Hall_Canyon_s
+Ham s * Ham_s
+Hamilton s * Hamilton_s
+Hanaupah s * Hanaupah_s
+Hardy_Hill s * Hardy_Hill_s
+Harms s * Harms_s
+Harold s * Harold_s
+Harrisburg s * Harrisburg_s
+Harrison s * Harrison_s
+Hawk s * Hawk_s
+Hawk_Creek s * Hawk_Creek_s
+Hay_Creek s * Hay_Creek_s
+Hay_Creek_new s * Hay_Creek_new_s
+Hayden_Peak s * Hayden_Peak_s
+Hayhook s * Hayhook_s
+Heath s * Heath_s
+Hector s * Hector_s
+Heimdall s * Heimdall_s
+Helderberg s * Helderberg_s
+Helena s * Helena_s
+Hell_Creek s * Hell_Creek_s
+Hematite_Ridge_1 s * Hematite_Ridge_1_s
+Hematite_Ridge_2 s * Hematite_Ridge_2_s
+Hematite_Ridge_3 s * Hematite_Ridge_3_s
+Hematite_Ridge_4 s * Hematite_Ridge_4_s
+Hematite_Ridge_5 s * Hematite_Ridge_5_s
+Hematite_Ridge_6 s * Hematite_Ridge_6_s
+Hennefer s * Hennefer_s
+Hewolf s * Hewolf_s
+High_Park s * High_Park_s
+Hole_in_the_Wall s * Hole_in_the_Wall_s
+Holts_Ledge s * Holts_Ledge_s
+Hoodoo s * Hoodoo_s
+Hooper s * Hooper_s
+Horlick s * Horlick_s
+Horned_Toad s * Horned_Toad_s
+Horseshoe_Hills s * Horseshoe_Hills_s
+Hoskinnini s * Hoskinnini_s
+Houle s * Houle_s
+Howells s * Howells_s
+Howey s * Howey_s
+Hudson_Bay s * Hudson_Bay_s
+Humboldt s * Humboldt_s
+Humbug s * Humbug_s
+Hungry_Horse s * Hungry_Horse_s
+Hunter_Mountain s * Hunter_Mountain_s
+Husky_Creek s * Husky_Creek_s
+Huson s * Huson_s
+Hyrum s * Hyrum_s
+Ibex_Pass s * Ibex_Pass_s
+Ibex_Pass_785 s * Ibex_Pass_785_s
+Idyllwild s * Idyllwild_s
+Ikpiarjuk s * Ikpiarjuk_s
+Indianola s * Indianola_s
+Ingraham s * Ingraham_s
+Interlake s * Interlake_s
+Iqqittuq s * Iqqittuq_s
+Ithaca s * Ithaca_s
+Ivanpah_ccam s * Ivanpah_ccam_s
+Jackhammer s * Jackhammer_s
+Jackson_Lake s * Jackson_Lake_s
+Jackson_Lake_2 s * Jackson_Lake_2_s
+Jackson_Lake_3 s * Jackson_Lake_3_s
+Jake s * Jake_s
+Jake_1 s * Jake_1_s
+Jarrad s * Jarrad_s
+Jefferson s * Jefferson_s
+John_Klein s * John_Klein_s
+John_Klein_CCAM_new s * John_Klein_CCAM_new_s
+John_Klein_RP2 s * John_Klein_RP2_s
+John_Klein_RP3 s * John_Klein_RP3_s
+Johnnie s * Johnnie_s
+Johnny_Cake s * Johnny_Cake_s
+Jolliffe s * Jolliffe_s
+Joshua_Tree s * Joshua_Tree_s
+JumJum_CCAM s * JumJum_CCAM_s
+Kaertok s * Kaertok_s
+Kahochella s * Kahochella_s
+Kalispell s * Kalispell_s
+Kalkberg s * Kalkberg_s
+Kalumburo s * Kalumburo_s
+Kam s * Kam_s
+Kaniapiskau s * Kaniapiskau_s
+Kanyuak s * Kanyuak_s
+Kapvik s * Kapvik_s
+Karrat s * Karrat_s
+Kasegalik s * Kasegalik_s
+Kazan s * Kazan_s
+Kazan_CCAM s * Kazan_CCAM_s
+Keeler_Canyon s * Keeler_Canyon_s
+Keetley_ccam s * Keetley_ccam_s
+Keith s * Keith_s
+Kenwood_River s * Kenwood_River_s
+Kenyon s * Kenyon_s
+Kenyon_HighAlbedo s * Kenyon_HighAlbedo_s
+Keskarah s * Keskarah_s
+Kevins_Dam s * Kevins_Dam_s
+Kikerk s * Kikerk_s
+Kilian s * Kilian_s
+Kilian_1 s * Kilian_1_s
+King_CCAM s * King_CCAM_s
+King_Leopold s * King_Leopold_s
+Kings_Peak s * Kings_Peak_s
+Kinsman s * Kinsman_s
+Kipalu s * Kipalu_s
+Kippen s * Kippen_s
+Kittery s * Kittery_s
+Kiwi_Lake_safe s * Kiwi_Lake_safe_s
+Knob_Lake s * Knob_Lake_s
+Kodak s * Kodak_s
+Kootenay s * Kootenay_s
+Kukri s * Kukri_s
+LM1 s * LM1_s
+LaValle s * LaValle_s
+La_Reine s * La_Reine_s
+Labyrinth_Lake s * Labyrinth_Lake_s
+Laddie s * Laddie_s
+Lady_Nye s * Lady_Nye_s
+Lady_Nye_2 s * Lady_Nye_2_s
+Lady_Nye_3 s * Lady_Nye_3_s
+Lady_Nye_4 s * Lady_Nye_4_s
+Lagrange s * Lagrange_s
+Laketown s * Laketown_s
+Lamboo s * Lamboo_s
+Lamerdorf s * Lamerdorf_s
+Lane_Mountain s * Lane_Mountain_s
+Last_Chance_Canyon s * Last_Chance_Canyon_s
+Laurens s * Laurens_s
+LeRoux s * LeRoux_s
+Le_Moyne s * Le_Moyne_s
+Lebanon s * Lebanon_s
+Lebanon_640 s * Lebanon_640_s
+Ledger_DRT_CCAM s * Ledger_DRT_CCAM_s
+Lee_Flat s * Lee_Flat_s
+Leigh s * Leigh_s
+Lemhi s * Lemhi_s
+Lennard s * Lennard_s
+Leroy s * Leroy_s
+Lewis s * Lewis_s
+Liga s * Liga_s
+Light_Toned_Ridge s * Light_Toned_Ridge_s
+Limekiln s * Limekiln_s
+Lincoln s * Lincoln_s
+Lindavista s * Lindavista_s
+Link s * Link_s
+Lippincott s * Lippincott_s
+Little_Dal s * Little_Dal_s
+Little_Devil s * Little_Devil_s
+Little_Gold s * Little_Gold_s
+Little_Wind_River s * Little_Wind_River_s
+Littleton s * Littleton_s
+Littleton_640 s * Littleton_640_s
+Live_Oak_Canyon s * Live_Oak_Canyon_s
+Livingston s * Livingston_s
+Loadstone s * Loadstone_s
+Lolo s * Lolo_s
+Long_Island s * Long_Island_s
+Lowary s * Lowary_s
+Lucas_Creek s * Lucas_Creek_s
+Lue_Point s * Lue_Point_s
+Lumpry s * Lumpry_s
+M31 s * M31_s
+MCAM_CT_Triad s * MCAM_CT_Triad_s
+MCAM_CT_WhiteMagnet s * MCAM_CT_WhiteMagnet_s
+MCAM_CT_White_Green s * MCAM_CT_White_Green_s
+MCAM_CT_White_Raster s * MCAM_CT_White_Raster_s
+Mabel_Downs s * Mabel_Downs_s
+Mackay_Dome s * Mackay_Dome_s
+Maddox s * Maddox_s
+Madison s * Madison_s
+Mahoney s * Mahoney_s
+Mahoney_2 s * Mahoney_2_s
+Mallard_Lake s * Mallard_Lake_s
+Mammoth s * Mammoth_s
+Manitounuk s * Manitounuk_s
+Manix s * Manix_s
+Manlius s * Manlius_s
+Manly s * Manly_s
+Mara s * Mara_s
+Mara_1 s * Mara_1_s
+Marent s * Marent_s
+Marent_1065 s * Marent_1065_s
+Marquette s * Marquette_s
+Marsden s * Marsden_s
+Marshall s * Marshall_s
+Martz s * Martz_s
+Mary s * Mary_s
+Mary_River s * Mary_River_s
+Mascoma s * Mascoma_s
+Matheson s * Matheson_s
+Maturango s * Maturango_s
+Maude_Headley s * Maude_Headley_s
+Mavor s * Mavor_s
+Maya s * Maya_s
+Maywood s * Maywood_s
+McClure s * McClure_s
+McGrath s * McGrath_s
+McHale s * McHale_s
+McKinnon s * McKinnon_s
+McSherrys s * McSherrys_s
+McTavish s * McTavish_s
+Measles_Point s * Measles_Point_s
+Meeteetse s * Meeteetse_s
+Meetinghouse s * Meetinghouse_s
+Meetinghouse_2 s * Meetinghouse_2_s
+Mell s * Mell_s
+Menihek s * Menihek_s
+Mesabi s * Mesabi_s
+Mescal s * Mescal_s
+Mesquite s * Mesquite_s
+Michigamme s * Michigamme_s
+Miette s * Miette_s
+Mill s * Mill_s
+Millport s * Millport_s
+Minnekahta s * Minnekahta_s
+Mission s * Mission_s
+Mission_Creek s * Mission_Creek_s
+Missoula s * Missoula_s
+Missoula_A s * Missoula_A_s
+Missoula_B s * Missoula_B_s
+Missoula_C s * Missoula_C_s
+Missoula_D s * Missoula_D_s
+Moiese s * Moiese_s
+Mojave2_DTa s * Mojave2_DTa_s
+Mojave2_DTb s * Mojave2_DTb_s
+Mojave2_FDH_ChemCam s * Mojave2_FDH_ChemCam_s
+Mojave2_MDH s * Mojave2_MDH_s
+Mojave2_MDH_ChemCam s * Mojave2_MDH_ChemCam_s
+Mojave2_PSDP_CC s * Mojave2_PSDP_CC_s
+Mojave2_post_sieve_dump s * Mojave2_post_sieve_dump_s
+Mojave2_presieve_dump s * Mojave2_presieve_dump_s
+Mojave_Bedrock s * Mojave_Bedrock_s
+Mojave_Chunks s * Mojave_Chunks_s
+Mojave_Chunks_Passive s * Mojave_Chunks_Passive_s
+Mojave_Mini_Drill_Bottom s * Mojave_Mini_Drill_Bottom_s
+Monarch s * Monarch_s
+Mondooma s * Mondooma_s
+Mono s * Mono_s
+Monroe s * Monroe_s
+Mont_Wright_337 s * Mont_Wright_337_s
+Montaigne s * Montaigne_s
+Moogana s * Moogana_s
+Morehouse s * Morehouse_s
+Morrison s * Morrison_s
+Mosquito s * Mosquito_s
+Mount_Sharp s * Mount_Sharp_s
+Mount_Amy s * Mount_Amy_s
+Mount_Eduni s * Mount_Eduni_s
+Mount_Lowe s * Mount_Lowe_s
+Mount_Marion s * Mount_Marion_s
+Mount_Powell s * Mount_Powell_s
+Mount_Wilson s * Mount_Wilson_s
+Mountain_Girl s * Mountain_Girl_s
+Mountain_Home s * Mountain_Home_s
+Mowry s * Mowry_s
+Mt_Sharp_1 s * Mt_Sharp_1_s
+Mt_Sharp_2 s * Mt_Sharp_2_s
+Mt_Tug s * Mt_Tug_s
+Muddy s * Muddy_s
+Mugford s * Mugford_s
+Mullan s * Mullan_s
+Murky s * Murky_s
+Mustang s * Mustang_s
+N1800 s * N1800_s
+N43111 s * N43111_s
+N74050 s * N74050_s
+Nancroix s * Nancroix_s
+Nanok s * Nanok_s
+Nanok2 s * Nanok2_s
+Nassau s * Nassau_s
+Nastapoka s * Nastapoka_s
+Natkusiak s * Natkusiak_s
+Nedrow s * Nedrow_s
+Neenach s * Neenach_s
+Neil s * Neil_s
+New_Scotland s * New_Scotland_s
+Newberry s * Newberry_s
+Newland s * Newland_s
+Ninemile s * Ninemile_s
+Nisku s * Nisku_s
+Nita s * Nita_s
+Noriss_2 s * Noriss_2_s
+Nova s * Nova_s
+Nullara s * Nullara_s
+Nullataktok s * Nullataktok_s
+OBriens_Creek s * OBriens_Creek_s
+Old_woman s * Old_woman_s
+Onandaga s * Onandaga_s
+Opeche s * Opeche_s
+Ophir_ccam s * Ophir_ccam_s
+Orocopia s * Orocopia_s
+Osborne_Canyon s * Osborne_Canyon_s
+Oscar s * Oscar_s
+Osiris s * Osiris_s
+Oso_Canyon s * Oso_Canyon_s
+Otsego s * Otsego_s
+Ouray s * Ouray_s
+Pablo s * Pablo_s
+Pachi s * Pachi_s
+Palisades s * Palisades_s
+Palomino s * Palomino_s
+Panum s * Panum_s
+Paoha s * Paoha_s
+Paperbark s * Paperbark_s
+Pardee s * Pardee_s
+Parry_Bay s * Parry_Bay_s
+Partridge s * Partridge_s
+Patterson_Lake s * Patterson_Lake_s
+Pauline s * Pauline_s
+Peace_Vallis_Channel s * Peace_Vallis_Channel_s
+Peach_Spring s * Peach_Spring_s
+Peacock_Hills s * Peacock_Hills_s
+Pearson s * Pearson_s
+Pearson_1 s * Pearson_1_s
+Pearson_2 s * Pearson_2_s
+Pearson_DP s * Pearson_DP_s
+Pebble s * Pebble_s
+Peg s * Peg_s
+Pekanatui s * Pekanatui_s
+Pekanatui_ZS s * Pekanatui_ZS_s
+Peleus s * Peleus_s
+Peleus_RMI s * Peleus_RMI_s
+Pentecost s * Pentecost_s
+Perdido s * Perdido_s
+Petaluma s * Petaluma_s
+Pethei s * Pethei_s
+Petty s * Petty_s
+Pickhandle_DRT s * Pickhandle_DRT_s
+Piegan s * Piegan_s
+Piermont s * Piermont_s
+Pilcher s * Pilcher_s
+Pilgrim s * Pilgrim_s
+Piling s * Piling_s
+Pillara s * Pillara_s
+Pinckney s * Pinckney_s
+Pine_Plains_ccam s * Pine_Plains_ccam_s
+Pinedale s * Pinedale_s
+Pinehaven s * Pinehaven_s
+Pink_Cliffs s * Pink_Cliffs_s
+Pinto s * Pinto_s
+Piru s * Piru_s
+Pisolet s * Pisolet_s
+Pistol s * Pistol_s
+Pitz s * Pitz_s
+Platcha s * Platcha_s
+Platypus_Ridge s * Platypus_Ridge_s
+Podunk_2 s * Podunk_2_s
+Pogonip s * Pogonip_s
+Pointing_test s * Pointing_test_s
+Poleta s * Poleta_s
+Polson s * Polson_s
+Port_Ewen s * Port_Ewen_s
+Port_Radium_1 s * Port_Radium_1_s
+Port_Radium_2 s * Port_Radium_2_s
+Portage s * Portage_s
+Post_Hill s * Post_Hill_s
+Poughquag s * Poughquag_s
+Preble s * Preble_s
+Prichard s * Prichard_s
+Providence_Mountains s * Providence_Mountains_s
+Puente s * Puente_s
+Punchbowl_CCAM s * Punchbowl_CCAM_s
+Pyramid s * Pyramid_s
+Pyramid_Hills s * Pyramid_Hills_s
+Quartet s * Quartet_s
+Quartet_new s * Quartet_new_s
+Quartz_Spring s * Quartz_Spring_s
+Quechee_Gorge s * Quechee_Gorge_s
+Rackla s * Rackla_s
+Radcliff s * Radcliff_s
+Radok s * Radok_s
+Rae s * Rae_s
+Rainbow_Basin s * Rainbow_Basin_s
+Ramah s * Ramah_s
+Ranford s * Ranford_s
+Rapitan s * Rapitan_s
+Ravalli s * Ravalli_s
+Red_Lodge s * Red_Lodge_s
+Red_Pass s * Red_Pass_s
+Red_Rock_Canyon s * Red_Rock_Canyon_s
+Red_Wine s * Red_Wine_s
+Reddick_Bight s * Reddick_Bight_s
+Redlands s * Redlands_s
+Redstone s * Redstone_s
+Reed s * Reed_s
+Regis s * Regis_s
+Regulus s * Regulus_s
+Rensselaer_CCAM s * Rensselaer_CCAM_s
+Resting_Spring s * Resting_Spring_s
+Revenue_Canyon s * Revenue_Canyon_s
+Richardson s * Richardson_s
+Richardson_2 s * Richardson_2_s
+Richmond_Gulf s * Richmond_Gulf_s
+Rifle s * Rifle_s
+Ritchie_ccam s * Ritchie_ccam_s
+Robin_Hood s * Robin_Hood_s
+Rochester s * Rochester_s
+Rock_Stream s * Rock_Stream_s
+Rocknest s * Rocknest_s
+Rocknest3 s * Rocknest3_s
+Rocknest3_1 s * Rocknest3_1_s
+Rocknest3_2 s * Rocknest3_2_s
+Rocknest3_DP s * Rocknest3_DP_s
+Rocknest6 s * Rocknest6_s
+Rocknest6a s * Rocknest6a_s
+Rocknest6b s * Rocknest6b_s
+Rocknest7 s * Rocknest7_s
+Rocknest_3_Top1 s * Rocknest_3_Top1_s
+Rodent_Hill s * Rodent_Hill_s
+Roebuck s * Roebuck_s
+Ronan_drt_2 s * Ronan_drt_2_s
+Rosebud s * Rosebud_s
+Ross s * Ross_s
+Rove s * Rove_s
+Rowatt s * Rowatt_s
+Ruker_RP_ccam s * Ruker_RP_ccam_s
+Rusty_Shale s * Rusty_Shale_s
+Ruth s * Ruth_s
+Saddle_Peak s * Saddle_Peak_s
+Saglek s * Saglek_s
+Saline_Valley s * Saline_Valley_s
+Salton s * Salton_s
+San_Francisquito_ccam s * San_Francisquito_ccam_s
+San_Gabriel s * San_Gabriel_s
+San_Rafael_Swell s * San_Rafael_Swell_s
+San_Sou s * San_Sou_s
+San_Timoteo s * San_Timoteo_s
+Sandy_Dam s * Sandy_Dam_s
+Sandy_Dam_Night s * Sandy_Dam_Night_s
+Sandy_Dam_night s * Sandy_Dam_night_s
+Santa_Ana_DRT s * Santa_Ana_DRT_s
+Sawtooth s * Sawtooth_s
+Scenic_Point s * Scenic_Point_s
+Schmutz2 s * Schmutz2_s
+Schoharie s * Schoharie_s
+Seal_Lake s * Seal_Lake_s
+Searles s * Searles_s
+Seeley_1031 s * Seeley_1031_s
+Selow s * Selow_s
+Selwyn s * Selwyn_s
+Seneca s * Seneca_s
+Sespe s * Sespe_s
+Seward s * Seward_s
+Shabogamo s * Shabogamo_s
+Shackleton s * Shackleton_s
+Sheepbed s * Sheepbed_s
+Sheffer s * Sheffer_s
+Shepard s * Shepard_s
+Shepherds_Bore s * Shepherds_Bore_s
+Shezal s * Shezal_s
+Shinarump s * Shinarump_s
+Sibley s * Sibley_s
+Siding_Spring_background s * Siding_Spring_background_s
+Siding_Spring_coma s * Siding_Spring_coma_s
+Siding_Spring_nucleus s * Siding_Spring_nucleus_s
+Silver_King s * Silver_King_s
+Silver_Valley s * Silver_Valley_s
+Simonson s * Simonson_s
+Sinawava s * Sinawava_s
+Sirius s * Sirius_s
+Skallen s * Skallen_s
+Skidoo s * Skidoo_s
+Skull_Creek s * Skull_Creek_s
+Skunnemunk s * Skunnemunk_s
+Sky s * Sky_s
+Sky_Flat_1000mm s * Sky_Flat_1000mm_s
+Sky_Flat_1200mm s * Sky_Flat_1200mm_s
+Sky_Flat_2000mm s * Sky_Flat_2000mm_s
+Sky_Flat_20m s * Sky_Flat_20m_s
+Sky_Flat_4m s * Sky_Flat_4m_s
+Sky_Flat_56m s * Sky_Flat_56m_s
+Sky_Flat_6m s * Sky_Flat_6m_s
+Sky_Obs_2X s * Sky_Obs_2X_s
+Skyline s * Skyline_s
+Sledgers s * Sledgers_s
+Snake_River s * Snake_River_s
+Snare s * Snare_s
+Snow_Bowl s * Snow_Bowl_s
+Snowslip s * Snowslip_s
+Sober_Up_Creek s * Sober_Up_Creek_s
+Society_Cliffs s * Society_Cliffs_s
+Soda s * Soda_s
+Sokoman s * Sokoman_s
+Soldat s * Soldat_s
+Soledad_Pass s * Soledad_Pass_s
+Solsville s * Solsville_s
+Sorrel_Springs s * Sorrel_Springs_s
+Sorrel_Springs_2 s * Sorrel_Springs_2_s
+South_Park2 s * South_Park2_s
+Sparkle s * Sparkle_s
+Sphinx s * Sphinx_s
+Spica s * Spica_s
+Spokane s * Spokane_s
+Spotted_Bear s * Spotted_Bear_s
+Square_Top s * Square_Top_s
+Square_Top_2 s * Square_Top_2_s
+Stanbridge s * Stanbridge_s
+Stark s * Stark_s
+Staten_Island s * Staten_Island_s
+Steep_Rock s * Steep_Rock_s
+Stenerson s * Stenerson_s
+Stephen s * Stephen_s
+Stephen_DP s * Stephen_DP_s
+Stephen_DP_2 s * Stephen_DP_2_s
+Stirling_2 s * Stirling_2_s
+Stock s * Stock_s
+Stockbridge s * Stockbridge_s
+Stonewall s * Stonewall_s
+Storrs_Pond s * Storrs_Pond_s
+Stovepipe_Wells s * Stovepipe_Wells_s
+Straight_Cliffs s * Straight_Cliffs_s
+Sulky_CCAM s * Sulky_CCAM_s
+Summer_Hill s * Summer_Hill_s
+Sunburst s * Sunburst_s
+Sutton_Inlier s * Sutton_Inlier_s
+Sutton_Inlier_2 s * Sutton_Inlier_2_s
+Sutton_Inlier_3 s * Sutton_Inlier_3_s
+Swampy_bay s * Swampy_bay_s
+Swan s * Swan_s
+Swasey s * Swasey_s
+Swift s * Swift_s
+Swimming_Woman_Canyon s * Swimming_Woman_Canyon_s
+SwitchBack s * SwitchBack_s
+Taltheilei s * Taltheilei_s
+Tamarack_River s * Tamarack_River_s
+Tampico s * Tampico_s
+Tapeats s * Tapeats_s
+Tappers_CCAM s * Tappers_CCAM_s
+Tecoya_ccam s * Tecoya_ccam_s
+Tehachapi s * Tehachapi_s
+Telegraph_PK_PreSieve_Dump s * Telegraph_PK_PreSieve_Dump_s
+Telegraph_Peak_DT s * Telegraph_Peak_DT_s
+Telegraph_Peak_Drill_Hole s * Telegraph_Peak_Drill_Hole_s
+Telegraph_Peak_ccam s * Telegraph_Peak_ccam_s
+Telegraph_Peak_drill_hole s * Telegraph_Peak_drill_hole_s
+Telegraph_Peak_drill_hole_2 s * Telegraph_Peak_drill_hole_2_s
+Telegraph_Peak_drill_hole_3 s * Telegraph_Peak_drill_hole_3_s
+Telegraph_Peak_drill_hole_4 s * Telegraph_Peak_drill_hole_4_s
+Telegraph_peak_post-sieve_dump_pile_ccam s * Telegraph_peak_post-sieve_dump_pile_ccam_s
+Telescope_Peak s * Telescope_Peak_s
+Temblor s * Temblor_s
+Terra_Nova s * Terra_Nova_s
+Tete_Jaune s * Tete_Jaune_s
+Thangoo s * Thangoo_s
+The_Maze s * The_Maze_s
+Thelon s * Thelon_s
+Thermopolis s * Thermopolis_s
+Thimble s * Thimble_s
+Thomson s * Thomson_s
+Thor_Lake s * Thor_Lake_s
+Thorndike s * Thorndike_s
+Thunderbolt s * Thunderbolt_s
+Thundercloud s * Thundercloud_s
+Tierra_Blanca s * Tierra_Blanca_s
+Tihvipah s * Tihvipah_s
+Tilt_Point s * Tilt_Point_s
+Timber_Mountain s * Timber_Mountain_s
+Tin_Can_Alley s * Tin_Can_Alley_s
+Tinder_Box s * Tinder_Box_s
+Tindir_1 s * Tindir_1_s
+Tingey s * Tingey_s
+Tintic s * Tintic_s
+Tip_Top_Mountain s * Tip_Top_Mountain_s
+Tippy_Buttes s * Tippy_Buttes_s
+Titus_Canyon s * Titus_Canyon_s
+Togo s * Togo_s
+Top_Square_Top s * Top_Square_Top_s
+Topanga_CCAM s * Topanga_CCAM_s
+Tucki s * Tucki_s
+Tukarak s * Tukarak_s
+Tully s * Tully_s
+Tumagee s * Tumagee_s
+Tumbleweed s * Tumbleweed_s
+Turret_Sieve s * Turret_Sieve_s
+Turret_Sieve_mosaic_A s * Turret_Sieve_mosaic_A_s
+Turret_Sieve_mosaic_B s * Turret_Sieve_mosaic_B_s
+Twinkle s * Twinkle_s
+Ulster s * Ulster_s
+Una s * Una_s
+Union_Springs s * Union_Springs_s
+Upheaval_Dome s * Upheaval_Dome_s
+Utopia s * Utopia_s
+Vaqueros s * Vaqueros_s
+Vaqueros_01 s * Vaqueros_01_s
+Vaqueros_02 s * Vaqueros_02_s
+Vaqueros_03 s * Vaqueros_03_s
+Vasquez s * Vasquez_s
+Vega s * Vega_s
+Wabush s * Wabush_s
+Wagita s * Wagita_s
+Wagon_Box s * Wagon_Box_s
+Wakham_Bay s * Wakham_Bay_s
+Wallace_ccam1 s * Wallace_ccam1_s
+Wallal s * Wallal_s
+Walsh s * Walsh_s
+Wapiti s * Wapiti_s
+Warm_Spring s * Warm_Spring_s
+Watterson s * Watterson_s
+Weed_Creek s * Weed_Creek_s
+Wernecke_1 s * Wernecke_1_s
+West_Falls s * West_Falls_s
+Whirlwind_Valley s * Whirlwind_Valley_s
+White_Cliffs s * White_Cliffs_s
+White_Cliffs_2 s * White_Cliffs_2_s
+White_Mountain s * White_Mountain_s
+Whitefish s * Whitefish_s
+Whitewater s * Whitewater_s
+Whitmore s * Whitmore_s
+Whitmore_2 s * Whitmore_2_s
+Wild_Horse_Mesa s * Wild_Horse_Mesa_s
+Wilkinson s * Wilkinson_s
+Wilson s * Wilson_s
+Windjana s * Windjana_s
+Windjana_Mini_Drill_Horizontal s * Windjana_Mini_Drill_Horizontal_s
+Windjana_Mini_Drill_Tailings s * Windjana_Mini_Drill_Tailings_s
+Windjana_Mini_Drill_Vertical s * Windjana_Mini_Drill_Vertical_s
+Windjana_drill_Hole_RMI s * Windjana_drill_Hole_RMI_s
+Windjana_drill_tailings s * Windjana_drill_tailings_s
+Windjana_drill_tailings2 s * Windjana_drill_tailings2_s
+Winnipeg s * Winnipeg_s
+Winnipesaukee s * Winnipesaukee_s
+Wishart s * Wishart_s
+Wolsey s * Wolsey_s
+Wolverine s * Wolverine_s
+Wood_Canyon s * Wood_Canyon_s
+Worldbeater s * Worldbeater_s
+Wrangle s * Wrangle_s
+Yampi s * Yampi_s
+Yarrada s * Yarrada_s
+Yellowjacket s * Yellowjacket_s
+Young_Point s * Young_Point_s
+Yule_Bay s * Yule_Bay_s
+Yulleroo s * Yulleroo_s
+Zenith_Sky_Flat s * Zenith_Sky_Flat_s
+Zephyr s * Zephyr_s
+Zephyr_ZS s * Zephyr_ZS_s
+Zzyzx_Spring s * Zzyzx_Spring_s
+confidence_hills_postsieve_dump_cc s * confidence_hills_postsieve_dump_cc_s
+dark_at_night s * dark_at_night_s
+possible_screw_chemcam_target s * possible_screw_chemcam_target_s
+pt01 s * pt01_s
+pt07 s * pt07_s
+rocknest_3_top1 s * rocknest_3_top1_s
+seward_1 s * seward_1_s
+sol00704_Windjana_dump_pile s * sol00704_Windjana_dump_pile_s
+;;===========================================================================================
+;;  COMMON WORDS OCCURING WITH TARGET NAMES
+;;===========================================================================================
+target s * target_s
+targets s * targets_s
+member s * member_s
+members s * members_s
+waypoint s * waypoint_s
+waypoints s * waypoints_s
+;;===========================================================================================
+;;  TARGET NAMES OBSERVED
+;;===========================================================================================
+Pine_Plains s * Pine_Plains_s
+Bardin_Bluff s * Bardin_Bluff_s
+Point_Coulomb s * Point_Coulomb_s
+Bonnet Plume_DW s * Bonnet_Plume_DW_s
+Red Wine s * Red Wine_s
+Bathrust_Inlet s * Bathrust_Inlet_s
+;;===========================================================================================
+;;  TARGET NAMES OBSERVED
+;;===========================================================================================
+Bonnet Plume_DW * Bonnet_Plume_DW
+Red Wine * Red_Wine
+;;===========================================================================================
+;;  MINERAL NAMES
+;;===========================================================================================
+Alakali feldspar * Alakali_feldspar
+Igneous minerals * Igneous_minerals
+K feldspar * K_feldspar
+Plagioclase feldspar * Plagioclase_feldspar
+Potassium feldspar * Potassium_feldspar
